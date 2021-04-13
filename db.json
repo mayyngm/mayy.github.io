@@ -1,5 +1,5 @@
 {
-    "artikel": [
+    "about": [
         {
             "id": 1,
             "name": "Jennifer Soft",
@@ -32,5 +32,74 @@
             
             
         }
-    ]
+    ],
+    "home-menu": [
+        {
+            "id": 1,
+            "name": "Fusce dictum finibus",
+            "profil": "Nam in suscipit nisi, sit amet consectetur metus. Ut sit amet tellus accumsan",
+            "price": "$45 / $55",
+            "img": "https://raw.githubusercontent.com/mayyngm/mayy.github.io/main/img/about-01.jpg"
+            
+        },
+        {
+            "id": 2,
+            "name": "Aliquam sagittis",
+            "profil": "Nam in suscipit nisi, sit amet consectetur metus. Ut sit amet tellus accumsan",
+            "price": "$65 / $70",
+            "img": "https://raw.githubusercontent.com/mayyngm/mayy.github.io/main/img/about-01.jpg"
+            
+        },
+        {
+            "id": 3,
+            "name": "Sed varius turpis",
+            "profil": "Nam in suscipit nisi, sit amet consectetur metus. Ut sit amet tellus accumsan",
+            "price": "$30.50",
+            "img": "https://raw.githubusercontent.com/mayyngm/mayy.github.io/main/img/about-01.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Aliquam sagittis",
+            "profil": "Nam in suscipit nisi, sit amet consectetur metus. Ut sit amet tellus accumsan",
+            "price": "$25.50",
+            "img": "https://raw.githubusercontent.com/mayyngm/mayy.github.io/main/img/about-01.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Maecenas eget justo",
+            "profil": "Nam in suscipit nisi, sit amet consectetur metus. Ut sit amet tellus accumsan",
+            "price": "$80.25",
+            "img": "https://raw.githubusercontent.com/mayyngm/mayy.github.io/main/img/about-01.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Quisque et felis eros",
+            "profil": "Nam in suscipit nisi, sit amet consectetur metus. Ut sit amet tellus accumsan",
+            "price": "$20 / $40 / $60",
+            "img": "https://raw.githubusercontent.com/mayyngm/mayy.github.io/main/img/about-01.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Sed ultricies dui",
+            "profil": "Nam in suscipit nisi, sit amet consectetur metus. Ut sit amet tellus accumsan",
+            "price": "$94",
+            "img": "https://raw.githubusercontent.com/mayyngm/mayy.github.io/main/img/about-01.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Donec porta consequat",
+            "profil": "Nam in suscipit nisi, sit amet consectetur metus. Ut sit amet tellus accumsan",
+            "price": "$15",
+            "img": "https://raw.githubusercontent.com/mayyngm/mayy.github.io/main/img/about-01.jpg"
+        }
+    ],
+    
+    "home-end": [
+        {
+            "id": 1,
+            "name": "Maecenas nulla neque",
+            "profil": "Redistributing this template as a downloadable ZIP file on any template collection site is strictly prohibited. You will need to talk to us for additional permissions about our templates. Thank you."
+        }
+     ],
+    
 }
