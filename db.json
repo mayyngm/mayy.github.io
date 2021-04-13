@@ -10,23 +10,23 @@
         },
         {
             "id": 2,
-            "title": "Daisy Walker",
-            "kategori": "Executive Chef",
+            "name": "Daisy Walker",
+            "position": "Executive Chef",
             "profil": "Praesent non vulputate elit. Orci variusnatoque et magnis dis parturient, nascetur ridiculus mus.",
             "img": "https://raw.githubusercontent.com/mayyngm/mayy.github.io/main/img/about-02.jpg"
             
         },
         {
             "id": 3,
-            "title": "Florence Nelson",
-            "kategori": "Kitchen Manager",
+            "name": "Florence Nelson",
+            "position": "Kitchen Manager",
             "profil": "Aenean sapien sem, ultricies sed vulputate et, auctor vel mauris. Integer sit amet diam eget est facilisis lacinia vitae.",
            "img": "https://raw.githubusercontent.com/mayyngm/mayy.github.io/main/img/about-03.jpg"
         },
         {
             "id": 4,
-            "title": "Valentina Martin",
-            "kategori": "Culinary Director",
+            "name": "Valentina Martin",
+            "position": "Culinary Director",
             "profil": "Praesent non vulputate elit. Orci variusnatoque penatibus et magnis montes, nascetur ridiculus mus.",
             "img": "https://raw.githubusercontent.com/mayyngm/mayy.github.io/main/img/about-04.jpg"
             
