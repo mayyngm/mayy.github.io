@@ -33,7 +33,7 @@
             
         }
     ],
-    "home-menu": [
+    "homemenu": [
         {
             "id": 1,
             "name": "Fusce dictum finibus",
@@ -94,7 +94,7 @@
         }
     ],
     
-    "home-end": [
+    "homeend": [
         {
             "id": 1,
             "name": "Maecenas nulla neque",
