@@ -98,7 +98,8 @@
         {
             "id": 1,
             "name": "Maecenas nulla neque",
-            "profil": "Redistributing this template as a downloadable ZIP file on any template collection site is strictly prohibited. You will need to talk to us for additional permissions about our templates. Thank you."
+            "profil": "Redistributing this template as a downloadable ZIP file on any template collection site is strictly prohibited. You will need to talk to us for additional permissions about our templates. Thank you.",
+            "img": "https://raw.githubusercontent.com/mayyngm/mayy.github.io/main/img/about-01.jpg"
         }
      ]
 }
